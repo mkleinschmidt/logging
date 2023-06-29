@@ -1,0 +1,24 @@
+{
+  "name": "@mkleinschmidt/logging",
+  "version": "0.0.1",
+  "description": "Javascript / Typescript logging module",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkleinschmidt/logging.git"
+  },
+  "keywords": [
+    "javascript",
+    "typescript",
+    "logging"
+  ],
+  "author": "MKleinschmidt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkleinschmidt/logging/issues"
+  },
+  "homepage": "https://github.com/mkleinschmidt/logging#readme"
+}
