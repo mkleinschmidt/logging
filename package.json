@@ -2,7 +2,7 @@
   "name": "@mkleinschmidt/logging",
   "version": "0.0.1",
   "description": "Javascript / Typescript logging module",
-  "main": "index.ts",
+  "main": "logging.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
